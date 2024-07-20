@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verse Craftsman - Poetry & Lyrics</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 0;
+        }
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 0.5em;
+        }
+        p {
+            font-size: 1.2em;
+            line-height: 1.6;
+        }
+        .poetry {
+            background-color: white;
+            padding: 20px;
+            margin: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            text-align: left;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Verse Craftsman</h1>
+    <p>Poetry, Lyrics, Self-written</p>
+</header>
+
+<div class="poetry">
+    <h2>Featured Poem: "Title of Your Poem"</h2>
+    <p>
+        Your poem goes here. Write something meaningful and inspiring.
+    </p>
+</div>
+
+<div class="poetry">
+    <h2>Featured Lyrics: "Title of Your Song"</h2>
+    <p>
+        Your song lyrics go here. Share a verse or chorus that resonates.
+    </p>
+</div>
+
+<footer>
+    <p>Contact: verse.craftsman@email.com | Phone: 123-456-7890</p>
+</footer>
+
+</body>
+</html>
